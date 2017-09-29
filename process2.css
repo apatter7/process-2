@@ -1,0 +1,103 @@
+.navbar.navbar-default.navbar-transparent{
+	background-color:white; 
+}
+
+.logo{
+	height:60px;
+	width:60px;
+}
+
+div.navbar-header{
+	float:right;
+}
+
+
+.heading{
+	font-family:'Playfair Display', serif;
+	text-align:center;
+	color:rgb(87,100,113);
+}
+
+.goal-description{
+	font-family:'Open Sans Condensed', sans-serif; 
+	font-weight:300;
+	font-size:22px;
+	text-align:center;
+	color:rgb(87,100,113);
+	margin-left:200px;
+	margin-right:200px;
+}
+
+ul#skills{
+	text-align:center;
+	list-style:none;
+	font-family:'Open Sans Condensed', sans-serif; 
+	font-weight:700;
+	font-size:18px;
+	
+}
+.web-design{
+	margin-right:30px;
+}
+
+.centering{
+	text-align:center;
+}
+
+.wireframe{
+	display:inline;
+	height:651.33px;
+	width:416.33px;
+	border:1px solid rgb(87,100,113) ;
+	margin:50px 30px 30px 30px;
+	
+}
+
+.color-font{
+	margin:50px 0px 0px 50px;
+	
+}
+
+.color-pallete{
+	width:100%;
+	margin-top:50px;
+	padding-right:50px;
+}
+
+.fonts{
+	display:inline;
+	height:266px;
+	width:429px;
+	margin:50px 0px 0px 0px;
+	margin-bottom:30px;
+}
+
+.logo-design{
+	margin-top:50px;
+}
+
+#result{
+	margin-top:50px;
+	margin-bottom:30px;
+}
+
+.layout{
+	width:1296px;
+	height:1371.2px;
+}
+
+.wrapper-button{
+	text-align:center;
+}
+
+.live{
+	border:none;
+	background-color:rgb(240,111,112);
+	color: rgb(242,242,242);
+	font-family:'Open Sans Condensed', sans-serif; 
+	font-weight:700;
+	font-size:20px;
+	width:140px;
+	height:50px;
+	margin-top:30px;
+}
